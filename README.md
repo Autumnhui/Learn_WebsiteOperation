@@ -5,7 +5,7 @@
 
 ### 📅Week01
 
-#### [🀄️翻译](https://github.com/Autumnhui/Learn_WebsiteOperation/blob/master/week_01.md)
-#### [✍️点评](https://github.com/Autumnhui/Learn_WebsiteOperation/blob/master/week_01-page.md)
+#### 1⃣️[🀄️翻译](https://github.com/Autumnhui/Learn_WebsiteOperation/blob/master/week_01.md)
+#### 2⃣️[✍️点评](https://github.com/Autumnhui/Learn_WebsiteOperation/blob/master/week_01-page.md)
 
 
